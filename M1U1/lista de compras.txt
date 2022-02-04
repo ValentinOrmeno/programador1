@@ -1,3 +1,5 @@
 pan
 cafe 
 mandarinas
+tomate
+manzana
