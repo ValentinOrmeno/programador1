@@ -1,0 +1,10 @@
+h1{
+    text-transform: uppercase; /*mayuscula*/
+    text-align: center; /*alineacion - rifgt - left*/
+}
+
+h2{
+    text-transform: uppercase; /*mayuscula*/
+    color: blue;
+
+}
